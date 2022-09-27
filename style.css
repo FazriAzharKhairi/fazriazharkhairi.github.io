@@ -1,0 +1,47 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #cbc3f8;
+}
+
+.jumbotron img:hover {
+  transform: scale(1.3);
+  transition: 0.5s;
+}
+
+li {
+  font-weight: 700;
+}
+
+.navbar .container .navbar-brand {
+  font-size: 30px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  display: inline-block;
+}
+
+.navbar ul li {
+  display: inline-block;
+  line-height: 50px;
+}
+
+.navbar ul li a:hover {
+  color: aqua;
+  background-color: white;
+}
+
+hr {
+  width: 600px;
+  border-top: 2px solid black;
+  margin: auto;
+}
+
+#projects {
+  background-color: #cbc3f8;
+}
+
+section {
+  padding-top: 10rem;
+}
+
+#skill {
+  background-color: #fff;
+}
